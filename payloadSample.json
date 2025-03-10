@@ -1,0 +1,17 @@
+{
+    "name": "Sample Layout",
+    "rooms": [
+      { "name": "Bedroom", "width": 12, "height": 10, "position": { "x": 0, "y": 0 } },
+      { "name": "Kitchen", "width": 10, "height": 8, "position": { "x": 12, "y": 0 } }
+    ],
+    "walls": [
+      { "length": 12, "start": { "x": 0, "y": 0 }, "end": { "x": 12, "y": 0 } }
+    ],
+    "doors": [
+      { "position": { "x": 6, "y": 0 }, "width": 3 }
+    ],
+    "windows": [
+      { "position": { "x": 10, "y": 8 }, "width": 4 }
+    ]
+  }
+  
